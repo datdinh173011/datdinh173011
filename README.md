@@ -28,8 +28,6 @@
 
 ### ⏰ My Coding Time (WakaTime)
 
-> (Optional — bật WakaTime tracking, phần này sẽ tự cập nhật)
-
 ```text
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
