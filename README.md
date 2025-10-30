@@ -33,5 +33,69 @@
 
   ```text
   <!--START_SECTION:waka-->
-  <!-- WakaTime data will auto-update here -->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 209.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 2,464 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                193402 commits      ████████████░░░░░░░░░░░░░   49.46 % 
+🌆 Daytime                87165 commits       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+🌃 Evening                42969 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+🌙 Night                  67456 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   46134 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Tuesday                  63530 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Wednesday                56668 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Thursday                 52860 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Friday                   57507 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Saturday                 106478 commits      ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+Sunday                   7815 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   21 repos            ████████████░░░░░░░░░░░░░   47.73 % 
+TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/datdinh173011/datdinh173011/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/10/2025 11:05:44 UTC
+<!--END_SECTION:waka-->
