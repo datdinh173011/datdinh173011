@@ -1,0 +1,22 @@
+name: Update WakaTime stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # chạy mỗi ngày
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update WakaTime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_COMMIT: "true"
+          SHOW_PROJECTS: "true"
+          SHOW_LANGUAGE: "true"
+          SHOW_OS: "true"
+          SHOW_EDITORS: "true"
