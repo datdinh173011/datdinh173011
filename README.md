@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Banner hoặc icon tùy chọn -->
+<h1 align="center">👋 Hello World, I'm Dat Dinh!</h1>
 
-<!--
-**datdinh173011/datdinh173011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>💻 Python / Django / Full-stack Developer</b> <br>
+  🚀 Passionate about backend systems, automation, and cloud architecture  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me  
+- 🔭 Currently working on **Django REST + AWS (ECS, Redis, Celery, etc.)**  
+- 🧩 Love building scalable APIs & optimizing query performance  
+- 💬 Ask me about **Python, Django, Celery, AWS, Docker, SQL tuning**  
+- 📫 Reach me at **datdinh173011@gmail.com**  
+- 🌏 [LinkedIn](https://linkedin.com/in/datdinh173011)  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datdinh173011&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datdinh173011&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+### ⏰ My Coding Time (WakaTime)
+
+> (Optional — bật WakaTime tracking, phần này sẽ tự cập nhật)
+
+```text
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
