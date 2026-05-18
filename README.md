@@ -33,8 +33,6 @@
 
   ```text
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2044%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 477.8 kB Used in GitHub's Storage 
@@ -47,39 +45,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                352189 commits      ████████████░░░░░░░░░░░░░   47.18 % 
-🌆 Daytime                216029 commits      ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-🌃 Evening                76496 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-🌙 Night                  101826 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   97750 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Tuesday                  125390 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Wednesday                114251 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Thursday                 109932 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Friday                   114645 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Saturday                 171815 commits      ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Sunday                   12757 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -97,5 +62,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/datdinh173011/datdinh173011/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 02:38:30 UTC
+ Last Updated on 18/05/2026 02:47:30 UTC
 <!--END_SECTION:waka-->
