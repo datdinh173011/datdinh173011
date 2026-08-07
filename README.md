@@ -33,69 +33,26 @@
 
   ```text
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2035%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2041%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 540.7 kB Used in GitHub's Storage 
+> 📦 540.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,654 Contributions in the Year 2026
+> 🏆 2,665 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                191015 commits      ██████████░░░░░░░░░░░░░░░   40.64 % 
-🌆 Daytime                191595 commits      ██████████░░░░░░░░░░░░░░░   40.77 % 
-🌃 Evening                44924 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-🌙 Night                  42428 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   70932 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Tuesday                  85838 commits       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Wednesday                81254 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Thursday                 78809 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Friday                   76134 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Saturday                 70890 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Sunday                   6105 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            █████████████░░░░░░░░░░░░   51.56 % 
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-SCSS                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   34 repos            █████████████░░░░░░░░░░░░   52.31 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+SCSS                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
@@ -105,5 +62,5 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/datdinh173011/datdinh173011/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 04:04:37 UTC
+ Last Updated on 07/08/2026 04:13:54 UTC
 <!--END_SECTION:waka-->
