@@ -33,11 +33,15 @@
 
   ```text
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2035%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2041%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 540.8 kB Used in GitHub's Storage 
+> 📦 541.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,665 Contributions in the Year 2026
+> 🏆 2,668 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,6 +49,45 @@
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                277626 commits      ██████████░░░░░░░░░░░░░░░   40.46 % 
+🌆 Daytime                281833 commits      ██████████░░░░░░░░░░░░░░░   41.07 % 
+🌃 Evening                65627 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+🌙 Night                  61097 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   102986 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  124451 commits      █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Wednesday                118810 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Thursday                 116041 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Friday                   111407 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Saturday                 104127 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Sunday                   8361 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -62,5 +105,5 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/datdinh173011/datdinh173011/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 04:13:54 UTC
+ Last Updated on 08/08/2026 03:24:11 UTC
 <!--END_SECTION:waka-->
